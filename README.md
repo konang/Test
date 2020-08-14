@@ -1,10 +1,11 @@
 # Test
 InterviewTest
 
-/countries
-	*This is the React app running on the default port 3000, use npm start on this dir to initialize the app
-/server
-	Json-server hosting the information on port 3001, use npm start on this dir to initialize the listening server
+-  /countries
+	-  This is the React app running on the default port 3000, use npm start on this dir to initialize the app
+	
+-  /server
+	-  Json-server hosting the information on port 3001, use npm start on this dir to initialize the listening server
 
 App is not built yet, directories still contain all dependencies
 
